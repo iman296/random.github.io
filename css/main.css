@@ -1,0 +1,151 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: Anton;
+    src: url(../fonts/Antonio-Bold.ttf);
+}
+@font-face {
+    font-family: cyber;
+    src: url(../fonts/ZenDots-Regular.ttf);
+}
+@font-face {
+    font-family: kurat;
+    src: url(../fonts/Karantina-Bold.ttf)
+}
+
+
+
+html, body, main {
+    height: 100%;
+    font-family: Anton;
+}
+
+.header {
+    height: 100vh;
+    width: 100%;
+    background-image: url(../img/img1.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+.jijl {
+    padding-top: 5%;
+    text-align: center;
+    
+}
+.header p {
+    color: white;
+}
+.lolo {
+    margin: 12% 0 0 4%
+}
+.jk {
+    font-size: 7vh;
+    opacity: 0.6;
+    font-family: Anton;
+    letter-spacing: 10px;
+}
+.jk1 {
+    font-size: 15vh;
+    font-family: Anton;
+}
+.jk2 {
+    letter-spacing: 1px;
+}
+.gallery {
+    background-color: white;
+    height: 100vh;
+   
+}
+.kj {
+    font-size: 14vh;
+    font-family: kurat;
+    
+    
+
+}
+
+.jh {
+    width: 60%;
+    
+    margin: auto;
+ 
+
+}
+.kok {
+    display: flex;
+   margin-top: 10%;
+   justify-content: space-between;
+   align-items: center;
+
+}
+.img1 {
+    height: 50%;
+    max-width: 50%;
+}
+.img2 {
+    height: auto;
+    max-width: 80%;
+}
+.img3 {
+    height: auto;
+    max-width: 80%;
+    padding-top: 4%;
+}
+.gg {
+    display: flex;
+    
+    
+}
+.kik {
+    
+    padding-left: 4%
+    
+}
+.baner {
+    background-image: url(../img/img3.jpg);
+    background-size: 100%;
+     height: auto;
+    width: 100%;
+   
+}
+.baner p {
+    color: white;
+}
+.koka {
+    
+    
+    border: solid 3px white;
+    
+    margin: auto ;
+    margin-top: 5%;
+   text-align: center;
+   padding-top: 1%;
+   padding-bottom: 1%;
+    width: 15%;
+   
+    
+}
+.kola {
+    padding-top: 8%;
+    text-align: center;
+}
+.iman1 {
+    padding-top: 7%;
+}
+.iman {
+    padding-top: 7%;
+}
+.kji {
+    
+    
+    height: auto;
+    max-width: 50%;
+    margin-left: 25%;
+}
+
+
+
